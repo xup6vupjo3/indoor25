@@ -1,6 +1,5 @@
----
 tags: IPS, BLE 5.0, Beacon, Scanner, MQTT, MongoDB
----
+
 
 # Indoor Positioning System (IPS)
 
