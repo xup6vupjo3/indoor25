@@ -3,9 +3,6 @@ tags: IPS, BLE 5.0, Beacon, Scanner, MQTT, MongoDB
 
 # Indoor Positioning System (IPS)
 
-<!-- Put the link to this slide here so people can follow -->
-slide: https://hackmd.io/p/template-Talk-slide
-
 ---
 
 RSSI-based IPS should contain transmitters and receivers, known as beacon and scanner, respectively. This study uses the beacon-based configuration, with **beacons** placed in a **fixed position**, and the **scanner** acts as a **moving element**. 
