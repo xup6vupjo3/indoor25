@@ -1,7 +1,5 @@
 ---
-title: Talk slides template
-tags: Templates, Talk
-description: View the slide with "Slide Mode".
+tags: IPS, BLE 5.0, Beacon, Scanner, MQTT, MongoDB
 ---
 
 # Indoor Positioning System (IPS)
