@@ -24,7 +24,7 @@ RSSI-based IPS should contain transmitters and receivers, known as beacon and sc
 ---
 
 
-```dot
+```circo
 digraph {
   compound=true
   rankdir=RL
