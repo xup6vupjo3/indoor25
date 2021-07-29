@@ -1,4 +1,4 @@
-tags: IPS, BLE 5.0, Beacon, Scanner, MQTT, MongoDB
+tags: IPS, BLE 5.0, Beacon, Scanner, MQTT, NodeRed, MongoDB, Trilateration, Kalman Filter, Embedded Systems
 
 
 # Indoor Positioning System (IPS)
