@@ -11,9 +11,9 @@ RSSI-based IPS should contain transmitters and receivers, known as beacon and sc
 
 ## Project Main Folders
 
-- Hardware (BLE 4.2, BLE 5.0)
-- Algorithms
-- GUI_website
+- Hardware
+- databasewiring
+- Software
 
 ---
 
