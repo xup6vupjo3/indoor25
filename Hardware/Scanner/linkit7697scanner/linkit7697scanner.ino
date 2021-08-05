@@ -193,27 +193,21 @@ void setuplcd(){
 #include <LWiFi.h>
 #include <PubSubClient.h>
 
-#define WIFI_SSID "MichaelMyers"
-#define WIFI_PASSWORD "0000xvtz613"
-//#define WIFI_SSID "iPhone"
-//#define WIFI_PASSWORD "qaq2929103"
+#define WIFI_SSID "YourSSID"
+#define WIFI_PASSWORD "YourPassword"
+//#define WIFI_SSID "ExtraSSID"
+//#define WIFI_PASSWORD "ExtraPassword"
 
 int status = WL_IDLE_STATUS;
 WiFiClient client;
 
 //Scanner one
-#define QIOT_SERVER_IP "140.118.25.3"
+#define QIOT_SERVER_IP "8.8.8.8"
 #define QIOT_SERVER_PORT 21883
-#define QIOT_USERNAME "0b4fb965dd844b4992"
-#define QIOT_PASSWORD "r:a3de9489777e2d86f2"
-#define QIOT_CLIENT_ID "rssi_1614839089"
-#define QIOT_TOPIC "qiot/things/indoor/rssi/rssi"
-
-//Scanner two
-//#define QIOT_USERNAME "6ba8ee1ccfd34efb96"
-//#define QIOT_PASSWORD "r:504ae786a31b5c01e4"
-//#define QIOT_CLIENT_ID "linkitv11_1620197768"
-//#define QIOT_TOPIC "qiot/things/indoor/linkitv11/linkitv11"
+#define QIOT_USERNAME "MQTTusername"
+#define QIOT_PASSWORD "MQTTpassword"
+#define QIOT_CLIENT_ID "MQTTclientid"
+#define QIOT_TOPIC "mqtt/topic/rssi"
 
 
 //looplimit = how many times we will scan
