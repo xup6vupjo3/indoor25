@@ -1,0 +1,24 @@
+
+#project {
+  font-family: "LiGothic", "FangSong", Arial, serif;
+  text-align: left; 
+  padding-top: 1%;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-bottom: 0.5%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.info-box {
+  border-style:groove;
+  width: 500px;
+  height: fit-content;
+}
+
+.table-responsive {
+  max-height:460px;
+}
